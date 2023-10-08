@@ -1,0 +1,22 @@
+.background{background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png);
+            height:50vh;width:100vw;background-size: cover;padding:40px }
+.hii{color:white;font-family:caveat;font-size:30px;}
+.botton-section{
+	 padding:20px;
+	 background-color: #e6f6ff;
+	 text-align:center;
+}
+.card-container{
+    background-color: white;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;
+
+}
+
+
+.price{font-size:20px;
+font-size:bold;}
